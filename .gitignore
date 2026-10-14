@@ -1,0 +1,18 @@
+# Pliki systemowe
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Pliki tymczasowe i logi
+*.log
+*.tmp
+*.swp
+*~
+
+# Lokalne zmienne środowiskowe
+.env
+.env.*
+!.env.example
+
+# Zależności JavaScript
+node_modules/
