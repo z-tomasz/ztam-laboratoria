@@ -1,0 +1,4 @@
+node_modules/
+.firebase/
+vapid-keys.json
+subscription.json
